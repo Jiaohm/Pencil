@@ -1,3 +1,4 @@
+//用于指定CMake项目的源代码目录，CMake将在指定目录中查找CMakeLists.txt文件和其他源文件，以进行构建
 {
     "cmake.sourceDirectory": "/home/lxq/plimo/OpenCheetah/SCI/extern/SEAL/native/src"
 }
